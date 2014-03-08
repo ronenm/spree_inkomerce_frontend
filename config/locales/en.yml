@@ -1,3 +1,9 @@
-# Use localization from the main spree_inkomerce extension
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
-
+en:
+  spree:
+    ink_deal: "InKomerce deal"
+    inkit_negotiable: "The price of this product is negotiable!!!\nNegotiate your price in real time!!!\nPowered InKomerce."
+    ink_negotiate_now: "NEGOTIATE A BETTER PRICE. Click on the 'InK It' button!"
+    admin_negotiable: "This product or some of its variants are available for negotiation."
